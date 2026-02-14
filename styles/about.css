@@ -11,9 +11,9 @@
     margin: 0 0 42px 0;
 }
 
-.about-subtitle-ru,
+.about-subtitle-uk,
 .about-subtitle-en,
-.about-description-ru,
+.about-description-uk,
 .about-description-en {
     font-size: 18px;
     font-weight: 500;
@@ -22,7 +22,7 @@
 
 }
 
-.about-description-ru,
+.about-description-uk,
 .about-description-en {
     text-align: justify;
 }
@@ -36,9 +36,9 @@
 }
 
 @media (max-width: 480px) {
-    .about-subtitle-ru,
+    .about-subtitle-uk,
     .about-subtitle-en,
-    .about-description-ru,
+    .about-description-uk,
     .about-description-en {
         font-size: 14px;
         margin: 0 auto 15px;

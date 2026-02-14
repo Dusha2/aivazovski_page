@@ -1,5 +1,5 @@
 # Aivazovski page
 
 ``` 
-Russian marine painter of Armenian origin collector, philanthropist
+Ukrainian marine painter of Armenian descent, collector, philanthropist
 ```
